@@ -1,6 +1,6 @@
 - 👋 Hola Soy Jorge Guillen, estoy poco a poco avanzando en el mundo de la programacion y este es mi espacio.
 
-- 👀 Ahora mismo estoy interesado en aprender mas sobre Backend, me gustan los lenguajes de programacion y disgruto mucho comiendome la cabeza para que las cosas salgan bien.
+- 👀 Ahora mismo estoy interesado en aprender mas sobre Backend, me gustan los lenguajes de programacion y disfruto mucho comiendome la cabeza para que las cosas salgan bien.
 
 - 🌱 Actualmente estoy Estudiando C++, mas adelante me gustaria aprender Python y Java(Aunque de java, aprendi lo basico).
 
