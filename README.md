@@ -6,7 +6,7 @@ Soy un desarrollador junior autodidacta, con experiencia en proyectos personales
 
 ## 👀 Intereses actuales
 
-Me estoy enfocando en aprender más sobre **Backend** y disfruto mucho resolviendo problemas de programación. Me apasionan los lenguajes de programación y disfruto “comiéndome la cabeza” para que las cosas salgan bien.
+Me estoy enfocando en aprender más sobre **Backend** y disfruto mucho resolviendo problemas de programación. Me apasionan los lenguajes de programación y disfruto estar  “comiéndome la cabeza” para que las cosas salgan bien.
 
 ---
 
